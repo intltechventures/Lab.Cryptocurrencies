@@ -3,6 +3,8 @@ Bitcon References
 * https://bitcoin.org/en/
 
 
+Github Resources
+* https://github.com/chainside/btcpy
 
 Interesting Podcast
 * http://unchained.forbes.libsynpro.com/

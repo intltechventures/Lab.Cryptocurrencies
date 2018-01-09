@@ -1,4 +1,9 @@
 
+Blockchain References
+* http://blockchain.mit.edu/
+* http://mitsloan.mit.edu/newsroom/articles/blockchain-explained/
+
+
 Bitcon References
 * https://bitcoin.org/en/
 

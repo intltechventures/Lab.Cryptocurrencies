@@ -17,3 +17,10 @@ Interesting Podcast
 * http://adventuresinfinance.realvision.libsynpro.com/website/18-bitcoin-journey-beyond-the-hype-to-a-universe-of-applications
 
 
+News Resources
+* https://www.bloomberg.com/crypto
+
+
+News Stories
+* 2018
+  * https://www.bloomberg.com/news/articles/2018-02-16/banks-replaced-with-blockchain-at-international-food-program

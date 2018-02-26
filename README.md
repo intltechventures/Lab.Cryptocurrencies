@@ -21,6 +21,12 @@ News Resources
 * https://www.bloomberg.com/crypto
 
 
+Possible Training Resource (not recommending, just identifying)
+* https://courses.blockgeeks.com/
+* https://www.blockchain-council.org/
+
+
+
 News Stories
 * 2018
   * https://www.bloomberg.com/news/articles/2018-02-16/banks-replaced-with-blockchain-at-international-food-program

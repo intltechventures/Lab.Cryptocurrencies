@@ -19,7 +19,7 @@ Interesting Podcast
 
 News Resources
 * https://www.bloomberg.com/crypto
-
+* https://icobench.com/icos
 
 Possible Training Resource (not recommending, just identifying)
 * https://courses.blockgeeks.com/

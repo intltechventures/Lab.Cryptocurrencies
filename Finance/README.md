@@ -1,6 +1,6 @@
 
 Finance Reated Blockchain Resources
+====
 
-
-Payments
+### Payments
 * http://mojaloop.io/
